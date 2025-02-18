@@ -57,3 +57,5 @@ function playGame() {
     }
     console.log("GAME END")
 }
+
+playGame()
